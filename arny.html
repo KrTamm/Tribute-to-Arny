@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+  #main {
+    text-align: center;
+    font-family: Helvetica;
+  }
+  #headline {
+    padding: 30px;
+  }
+  article {
+    text-align: justify;
+    font-weight: normal;
+    font-size: 20px;
+  }
+  h4 {
+    text-align: left;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+  </head>
+    <body>
+<main id="main">
+<h1 id="title">Arnold is numer Uno
+</h1>
+<p> The man who could come in the gym
+  <p>
+    <hr>
+<div id="img-div">
+  <img id="image" src="https://i.pinimg.com/736x/a5/2b/3a/a52b3a99d1a3ae52c5c3f280967e8566.jpg" alt="Arnold, with a calm face, doing cable flies to get a pump">
+  <div id="img-caption"> Arnold Schwarzenegger, getting a magnificent pump.
+  </div>
+</div>
+  <hr>
+  <section id="tribute-info">
+    <h3 id="headline"> Bodybuilding Career
+      <h3>
+        <article>
+       <p> Schwarzenegger is considered among the most important figures in the history of bodybuilding, and his legacy is commemorated in the Arnold Classic annual bodybuilding competition. He has remained a prominent face in bodybuilding long after his retirement, in part because of his ownership of gyms and fitness magazines. He has presided over numerous contests and awards shows.</p>
+<p>One of the first competitions he won was the Junior Mr. Europe contest in 1965. He won Mr. Europe the following year, at age 19. He would go on to compete in many bodybuilding contests, and win most of them. His bodybuilding victories included five Mr. Universe wins and seven Mr. Olympia wins, a record which would stand until Lee Haney won his eighth consecutive Mr. Olympia title in 1991.</p>
+<p>Schwarzenegger continues to work out. When asked about his personal training during the 2011 Arnold Classic he said that he was still working out a half an hour with weights every day. </p>
+        </article>
+      <h4>
+        Powerlifting/weightlifting
+        </h4>
+       <article>
+        <p>During Schwarzenegger's early years in bodybuilding, he also competed in several Olympic weightlifting and powerlifting contests. Schwarzenegger's first professional competition was in 1963 and he won two weightlifting contests in 1964 and 1965, as well as two powerlifting contests in 1966 and 1968.</p>
+<p>
+In 1967, Schwarzenegger won the Munich stone-lifting contest, in which a stone weighing 508 German pounds (254 kg / 560 lb) is lifted between the legs while standing on two footrests.</p>
+        </article>
+        <h4>Personal records
+          <h4>
+            <ul>
+              <li>Clean and press – 264 lb (120 kg)</li>
+              <li>Snatch – 243 lb (110 kg)</li>
+              <li>Clean and jerk – 298 lb (135 kg)</li>
+              <li>Squat – 545 lb (247 kg)</li>
+              <li>Bench press – 520 lb (240 kg)</li>
+              <li>Deadlift – 683 lb (310 kg)</li>
+            </ul>
+            <h4> Mr. Olympia </h4>
+            <article>
+              <p>Schwarzenegger's goal was to become the greatest bodybuilder in the world, which meant becoming Mr. Olympia. His first attempt was in 1969, when he lost to three-time champion Sergio Oliva. However, Schwarzenegger came back in 1970 and won the competition, making him the youngest ever Mr. Olympia at the age of 23, a record he still holds to this day.</p>
+
+<p>He continued his winning streak in the 1971–74 competitions. He also toured different countries selling vitamins, as in Helsinki, Finland in 1972, when he lived at the YMCA Hotel Hospiz (nowadays Hotel Arthur) on Vuorikatu and presented vitamin pills at the Stockmann shopping center. In 1975, Schwarzenegger was once again in top form, and won the title for the sixth consecutive time, beating Franco Columbu. After the 1975 Mr. Olympia contest, Schwarzenegger announced his retirement from professional bodybuilding. Read more <a id="tribute-link" href="https://en.wikipedia.org/wiki/Arnold_Schwarzenegger#Bodybuilding_career" target="_blank"> here.</a></p>
+            </article>
+            <h4>Statistics
+            </h4>
+           <article> <ul>
+              <li>Height: 6 ft 2 in (1.88 m)</li>
+             <li>Contest weight: 235 lb (107 kg)—the lightest in 1980 Mr. Olympia: around 225 lb (102 kg), the heaviest in 1974 Mr. Olympia: around 250 lb (110 kg)</li>
+             <li>Off-season weight: 260 lb (118 kg)</li>
+             <li>Chest: 57 in (1,400 mm)</li>
+             <li>Waist: 34 in (860 mm)</li>
+             <li>Arms: 22 in (560 mm)</li>
+             <li>Thighs: 28.5 in (720 mm)</li>
+             <li>Calves: 20 in (510 mm)</li>
+             </ul>
+             </article>
+  </section>
+</main>
+        <footer> Author: Kristjan Tamm
+          </footer>
+</body>
+      </html>
